@@ -6,7 +6,7 @@ by Shuyu Wang*, Hongzhou Tang
 
 Here we pioneered a deep graph neural network based method for predicting protein stability change upon mutation. 
 
-![image](https://github.com/shuyu-wang/ProS-GNN/raw/main/fig1(A).png)
+![image](https://github.com/HongzhouTang/BayeStab/blob/main/images/fig1.png)
 
 # Dependency
 

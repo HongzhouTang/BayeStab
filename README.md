@@ -20,7 +20,7 @@ Here we pioneered a deep graph neural network based method for predicting protei
 
 # Installation
 
-ProS-GNN ΔΔG  prediction is accomplished through a multi-step protocol. Each step relies on a specific third-party software that needs to be installed first. In the following, we outline the steps to install them.
+BayeStab ΔΔG  prediction is accomplished through a multi-step protocol. Each step relies on a specific third-party software that needs to be installed first. In the following, we outline the steps to install them.
 
 ### Clone BayeStab
 
